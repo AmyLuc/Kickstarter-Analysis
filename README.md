@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Module 1 Kickstarter Challenge Assignment
+# An Analysis of Kickstarter Campaigns
+##This is a recommendation of start dates and funding goals based on data collected on similar campaigns. 
